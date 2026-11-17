@@ -24,7 +24,7 @@
 
 | Progetto | Descrizione | Stack |
 |---|---|---|
-| **[CoachMe](https://github.com/Juans77/coachme)** | App di allenamento con un coach AI: schede su misura, storico e progressione del volume. Web e Android. | Next.js · NestJS · Prisma · PostgreSQL · Stripe · Capacitor |
+| **CoachMe** · *privato, presto pubblico* | App di allenamento con un coach AI: schede su misura, storico e progressione del volume. Web e Android. | Next.js · NestJS · Prisma · PostgreSQL · Stripe · Capacitor |
 | **[Heating Simulator](https://github.com/Juans77/heating-simulator)** | Laboratorio IoT: caldaia OpenTherm simulata, controllo automatico con auto-tuning e integrazione con Home Assistant. | Python · MQTT · Home Assistant · PostgreSQL · Docker |
 | **Fiore AI Receptionist** · *privato* | SaaS multi-tenant: un assistente AI per le PMI risponde ai clienti e gestisce prenotazioni e ordini. Include pannello admin e 2FA. | Next.js · TypeScript · Prisma · OpenAI · Docker · Playwright |
 | **Fiore Digital Solutions** · *privato* | Sito aziendale statico con scena 3D e demo interattive, pubblicato su Cloudflare Workers. Header di sicurezza (CSP) e test end-to-end. | Next.js · Three.js · Tailwind CSS · Cloudflare Workers |
